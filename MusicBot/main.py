@@ -7,7 +7,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Token for accessing the Telegram Bot API
-TOKEN = '6432407505:AAEZyUN3TSyYmfFhflWfdgd1tyBFr9fM3k0'
+TOKEN = 'Telegram Bot Token'
 
 
 # Function to handle the /start command
